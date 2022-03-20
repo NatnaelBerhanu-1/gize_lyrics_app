@@ -1,0 +1,1 @@
+const cAppName = "Gize Lyrics";
